@@ -4,3 +4,4 @@ D:\Angular JS\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
 D:\Angular JS\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
 D:\Angular JS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
 D:\Angular JS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\Angular JS\DesignPatterns\Design-Patterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
