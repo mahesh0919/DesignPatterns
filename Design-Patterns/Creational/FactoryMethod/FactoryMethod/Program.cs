@@ -12,10 +12,10 @@ namespace FactoryMethod
         {
             CarFactory carFactory = new CarFactory();
             ICar nano = carFactory.GetCar("nano");
-            nano.GetSpecifications();
+            string carName1 = nano.GetSpecifications();
 
             I10Car i10 = (I10Car)carFactory.GetCar("i10");
-            i10.GetSpecifications();
+            string carName2 = i10.GetSpecifications();
 
             Console.Read();
 

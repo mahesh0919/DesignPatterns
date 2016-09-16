@@ -8,6 +8,6 @@ namespace FactoryMethod
 {
     public interface ICar
     {
-        void GetSpecifications();
+        string GetSpecifications();
     }
 }

@@ -8,25 +8,28 @@ namespace FactoryMethod
 {
     public class NanoCar : ICar
     {
-        public void GetSpecifications()
+        public string GetSpecifications()
         {
             Console.WriteLine("This is Nano Car");
+            return "NanoCar";
         }
     }
 
     public class FigoCar : ICar
     {
-        public void GetSpecifications()
+        public string GetSpecifications()
         {
             Console.WriteLine("This is Figo Car");
+            return "FigoCar";
         }
     }                                   
 
     public class I10Car : ICar
     {
-        public void GetSpecifications()
+        public string GetSpecifications()
         {
             Console.WriteLine("This is I10 Car");
+            return "I10Car";
         }
     }
 }
